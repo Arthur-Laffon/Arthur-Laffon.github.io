@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/arthur-laffon-038a4527b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
